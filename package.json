@@ -1,0 +1,25 @@
+{
+  "name": "full-width-slider",
+  "homepage": "https://maxtsh.github.io/full-width-slider",
+  "version": "1.0.0",
+  "description": "a simple full width slider",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "full-width-slider"
+  },
+  "keywords": [
+    "full",
+    "width",
+    "slider"
+  ],
+  "author": "Max Tsh",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
